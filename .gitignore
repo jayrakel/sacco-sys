@@ -1,0 +1,21 @@
+# Environment files
+.env
+
+# Node
+node_modules/
+
+# Java / Maven
+target/
+*.class
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Spring Boot config (real file ignored)
+**/application.properties
+!**/application.properties.example
